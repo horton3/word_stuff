@@ -8,7 +8,7 @@
 \f0\fs24 \cf0 instructors = ["Andrea"]\
 for i in instructors:\
     if i == "Andrea":\
-        instructors += ["Kyle is this doesn\'92t do it I don\'92t know]\
+        instructors += ["Kyle is going to learn git]\
     if i == "Kyle":\
         instructors += ["Jennifer"]\
 print (instructors)\
